@@ -1,3 +1,21 @@
+<<<<<<< HEAD
 acá hablamos de mi vida y otras cosas
 skreka juan ignacio
 estudiante de educacion fisica y programacion
+=======
+Esta es la historia de Freddy Vega
+
+Freddy Vega tiene 32 años y nació en Colombia
+
+Anita Platzi es una persona que contribuye a este proyecto open source y nació en Internet
+
+Experimento 1
+
+Experimento 2
+
+Master 1
+
+Master 2
+
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> 0cc672ac066f4d118205aaca7da635219df00e48
